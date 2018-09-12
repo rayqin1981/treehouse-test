@@ -8,3 +8,7 @@
 feater-branch
 
 fork edit;
+
+local add
+
+to commit
